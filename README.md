@@ -1,1 +1,2 @@
-# Tia-s-project
+# Geologist
+Geologist Project
